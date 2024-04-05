@@ -1,4 +1,4 @@
-# Chat server - клиент серверное приложение
+# Messenger - клиент серверное приложение
 
 ## Стэк:
 - Java 11, IO, Swing, Maven, SQLite, Socket, ServerSocket, MultiThreading
